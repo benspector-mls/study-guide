@@ -17,6 +17,8 @@ let y = 10;     // declare AND assign a variable in one line;
 let z = x + y;  // use the values of x and y to calculate the value assigned to the newly declared variable `z`
 ```
 
+In this example above, the variable `x` is declared and then reassigned multiple times. It's final value will be `11`. Then, the variable `y` is declared and assigned a value `10` in one line (also called "initialized"). Finally, `z` is declared and assigned a value `21`, calculated by the expression `x + y`. 
+
 **Notes:** 
 
 * Variables declared with `const` can't be reassigned
