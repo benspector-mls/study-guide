@@ -1,5 +1,14 @@
 # study-guide
 
+**Table of Contents:**
+* [Variables](#variables)
+* [Functions](#functions)
+* [If Statements](#if-statements)
+* [Arrays](#arrays)
+* [Objects](#objects)
+* [For Loops](#for-loops)
+* [Array Iteration](#array-iteration)
+
 ## Variables
 
 **Definition**: A variable holds onto a data value. A variable is created by assigning a data value to a name (called the variable's "identifier"). Once created, referencing the variable's name/identifier will return the held data value. Variables are useful for keeping track of changing or unknowable data throughout the lifetime of a program.
@@ -30,3 +39,15 @@ name = "carmen"; // Throws a TypeError
 
 * Variables declared with `const` and `let` are block scoped and are not hoisted.
 * Variables decalred with `var` are function scoped, are reassignable, and have their declarations hoisted.
+
+## Functions
+
+## If Statements
+
+## Arrays
+
+## Objects
+
+## For Loops
+
+## Array Iteration
